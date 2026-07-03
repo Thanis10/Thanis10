@@ -1,12 +1,29 @@
 # Hi there, I'm THANIS 👋 🚀
 
-### 💻 Software Engineer | AI Enthusiast | Database Architect
+<!-- ANIMATED HEADER COMPONENT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Systems%20%26%20AI%20Engineer&fontSize=45&animation=twinkling&theme=tokyonight" width="100%" alt="Header Grid" />
+</p>
+
+### 💻 Software Engineering | AI Architecture | Distributed Databases
 
 I’m a software engineer dedicated to building high-performance, scalable systems and weaving intelligent AI solutions into practical, real-world applications. From optimizing database queries to deploying distributed systems and training models, I love breaking down complex problems into elegant code.
 
 ---
 
-### 🌌 What I'm Up To
+### 🔮 My 3D Contribution Graph
+
+<!-- 
+INSTRUCTION: To activate this 3D isometric contribution graph, set up the 'yoshi389111/github-profile-3d-contrib' 
+GitHub Action in your repository. It will automatically generate and update this 3D view daily!
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+### 🌌 Current Focus & Architecture
 - 🛠️ **Building:** High-performance distributed architectures and modern full-stack systems.
 - 🤖 **Exploring:** Large Language Model (LLM) integrations, vector databases, and agentic AI workflows.
 - ⚡ **Optimizing:** Database indexing, query execution paths, and cache coherence protocols.
@@ -14,22 +31,26 @@ I’m a software engineer dedicated to building high-performance, scalable syste
 
 ---
 
-### 🚀 Tech Stack & Toolkit
+### 🛠️ Tech Stack & Toolkit
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, TypeScript/JavaScript, C++, SQL, Rust |
-| **Frameworks & Libraries** | Next.js, Node.js, Fastify, PyTorch, LangChain, Flutter |
-| **AI & Data Science** | OpenAI API, Gemini API, Vector Embeddings, Ollama (Local LLMs) |
-| **Databases & Infra** | PostgreSQL, Redis, MongoDB, Pinecone, Docker, AWS |
+<!-- ANIMATED ICON BADGES -->
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,rust,postgres,redis,mongodb,docker,aws,nextjs,nodejs,flutter&perline=6" alt="My Tech Stack" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats & Velocity
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <!-- Dynamic GitHub Streak Counter with animation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
