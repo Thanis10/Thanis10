@@ -18,7 +18,7 @@ INSTRUCTION: To activate this 3D isometric contribution graph, set up the 'yoshi
 GitHub Action in your repository. It will automatically generate and update this 3D view daily!
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thanis10/thanis10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Thanis10/Thanis10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -44,13 +44,13 @@ GitHub Action in your repository. It will automatically generate and update this
 ### 📊 GitHub Stats & Velocity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanis10&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanis10&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
   <!-- Dynamic GitHub Streak Counter with animation -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanis10&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
