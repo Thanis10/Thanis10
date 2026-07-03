@@ -2,7 +2,7 @@
 
 <!-- ANIMATED HEADER COMPONENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Systems%20%26%20AI%20Engineer&fontSize=45&animation=twinkling&theme=tokyonight" width="100%" alt="Header Grid" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7928CA&vCenter=true&width=600&height=100&lines=Systems+%26+AI+Engineer;Building+Scalable+Architectures;Optimizing+Parallel+Logic" alt="Typing SVG" />
 </p>
 
 ### 💻 Software Engineering | AI Architecture | Distributed Databases
@@ -18,7 +18,7 @@ INSTRUCTION: To activate this 3D isometric contribution graph, set up the 'yoshi
 GitHub Action in your repository. It will automatically generate and update this 3D view daily!
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/thanis10/thanis10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
